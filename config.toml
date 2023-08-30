@@ -1,3 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Mo$o Legendary Site'
+theme = 'hugo-flex'
